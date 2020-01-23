@@ -1,7 +1,7 @@
 ---
 title: My First Article 123
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
-image: uploads/christopher-robin-ebbinghaus-pgSkeh0yl8o-unsplash.jpg
+image: /uploads/saksham-gangwar-YVgOh8w1R4s-unsplash.jpg
 author: Mario Rossi
 date: 2020-01-07T17:43:37.669Z
 ---
