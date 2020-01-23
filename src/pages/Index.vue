@@ -7,7 +7,7 @@
              :style="{ 'background-image': 'url(' + article.node.image + ')' }"></div>
         <div class="article__body">
           <g-link :to="article.node.path" class="article__link"></g-link>
-          <h1 class="article__title">{{article.node.title}} - {{article.node.image}}</h1>
+          <h1 class="article__title">{{article.node.title}}</h1>
           <p class="article__abstract">{{article.node.abstract}}</p>
         </div>
       </div>
