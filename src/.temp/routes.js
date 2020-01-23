@@ -1,10 +1,14 @@
 export default [
   {
+    path: "/articles/my-first-article/",
+    component: () => import(/* webpackChunkName: "page--src--templates--articles-vue" */ "/Users/nicolasolazzo/Desktop/gridsome-netlifyCMS/src/templates/Articles.vue")
+  },
+  {
     path: "/articles/my-second-article/",
     component: () => import(/* webpackChunkName: "page--src--templates--articles-vue" */ "/Users/nicolasolazzo/Desktop/gridsome-netlifyCMS/src/templates/Articles.vue")
   },
   {
-    path: "/articles/my-first-article/",
+    path: "/articles/my-third-article/",
     component: () => import(/* webpackChunkName: "page--src--templates--articles-vue" */ "/Users/nicolasolazzo/Desktop/gridsome-netlifyCMS/src/templates/Articles.vue")
   },
   {
